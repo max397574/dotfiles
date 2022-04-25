@@ -1,0 +1,3 @@
+[submodule "NeovimConfig"]
+	path = NeovimConfig
+	url = https://github.com/max397574/NeovimConfig

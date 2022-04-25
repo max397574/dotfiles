@@ -10,5 +10,8 @@ I can do this automatically with a script which changes colors for starship, ter
 - WM: Yabai
 - Terminal: Kitty
 
+## Neovim
+Check the [readme of the repo](https://github.com/max397574/NeovimConfig).
+
 ## Starship Prompt
 ![starship](https://user-images.githubusercontent.com/81827001/165094751-34aeadb1-0f69-4f69-bbaf-67fc4e5e534c.png)
