@@ -18,3 +18,7 @@ Check the [readme of the repo](https://github.com/max397574/NeovimConfig).
 
 ## Colorscheme switcher
 https://user-images.githubusercontent.com/81827001/165902385-e02b5298-e0a6-4455-b97a-77c0945fb45e.mov
+
+## ❤️ Support
+If you like the projects I do and they can help you in your life you can support my work with [github sponsors](https://github.com/sponsors/max397574).
+Every support motivates me to continue working on my open source projects.
